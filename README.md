@@ -21,7 +21,8 @@ DC-Starter是帮你运行Docker-Compose的懒人脚本，不用死背命令，�
 1. 拉取项目代码：
 
     ```
-    git clone https://github.com/philiphuang/docker-compose-starter.git
+    
+    git clone https://github.com/wxkeykey/docker-compose-starter.git
     ```
 
 2. 运行run.sh
